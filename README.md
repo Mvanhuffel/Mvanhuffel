@@ -1,6 +1,6 @@
 ### Hi there, I'm Matt 👋
 
-<img src="cover.jpg" alt="hi">
+<img src="cover.png" alt="hi">
 
 I'm a business analyst at Axway. I enjoy exploring data to build valuable insights and improve decision making processes within organizations.
 
