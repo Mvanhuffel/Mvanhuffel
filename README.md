@@ -1,6 +1,6 @@
-### Hi there, I'm Matt 👋
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=3384B4&lines=Hi+there,+I'm+Matt+👋...)](https://git.io/typing-svg)
 
-<img src="cover.png" alt="hi">
+### Hi there, I'm Matt 👋
 
 I'm a business analyst at Axway. I enjoy exploring data to build valuable insights and improve decision making processes within organizations.
 
@@ -25,4 +25,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<img src="cover.png" alt="hi">
 -->
