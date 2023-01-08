@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Matt 👋
+
+I'm a business analyst at Axway. I enjoy exploring data to build valuable insights and improve decision making processes within organizations.
+
+### :mailbox: Contact:
+[![Linkedin Badge][linkedinbadge]][linkedin][![Mail Badge](https://img.shields.io/badge/-mtvanhuffel@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)][gmail]
+
+
 
 <!--
 **Mvanhuffel/mvanhuffel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
