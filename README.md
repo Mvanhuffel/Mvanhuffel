@@ -8,7 +8,7 @@ I'm a business analyst at Axway. I enjoy exploring data to build valuable insigh
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) in/mtvanhuffel](https://www.linkedin.com/mvanhuffel)
 &nbsp;
 
-###⚡ Fun fact: 
+### ⚡ Fun fact: 
 The earliest case of data visualization being used to influence public policy was around [getting better sanitary conditions for British soldiers](https://www.datacamp.com/blog/florence-nightingale-pioneer-of-data-visualization).
 
 
