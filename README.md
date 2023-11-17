@@ -1,5 +1,5 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=3384B4&lines=Hi+there,+I'm+Matt+👋...)](https://git.io/typing-svg)
-I'm a business analyst at Axway. I enjoy exploring data to build valuable insights and improve decision making processes within organizations.
+I'm a data analyst at Mygrowthub. I enjoy exploring data to build valuable insights and improve decision-making processes within organizations.
 
 ### :mailbox: Contact:
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) in/mtvanhuffel](https://www.linkedin.com/mvanhuffel)
